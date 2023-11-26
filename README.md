@@ -1,2 +1,2 @@
-# AstroGal_R
+# Astronomía
 Repositorio de Funciones de Astronomia Galactica
